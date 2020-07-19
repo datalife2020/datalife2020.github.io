@@ -1,0 +1,10 @@
+<div id="observablehq-c7f26d33">
+    <div id="test">
+    <script  type="module">
+    import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+    import define from "https://api.observablehq.com/@anto-espo/zoomable-treemap.js?v=3";
+    const inspect = Inspector.into("#observablehq-c7f26d33");
+    (new Runtime).module(define, name => name === "chart" ? inspect() : undefined);
+    </script>
+        </div>
+    </div>
