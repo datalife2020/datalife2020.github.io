@@ -5,7 +5,7 @@ cover: /assets/images/covers/viz03.jpg
 
 number: 7
 
-intro: Understandingtheamountofsharedaudienceamongbrandscould be useful for strategic brand collaborations, which are very likely to happen among brands which share goals, business direction but also the target market. This analysis shows which brands have the most users in common, using dynamic networks in order to visualize the shared social users throughout the entire fashion weeks.
+intro: Understanding the amount of shared audience among brands could be useful for strategic brand collaborations, which are very likely to happen among brands which share goals, business direction but also the target market. This analysis shows which brands have the most users in common, using dynamic networks in order to visualize the shared social users throughout the entire fashion weeks.
 
 sources:
   - name: Wikipedia
