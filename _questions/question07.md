@@ -23,7 +23,7 @@ It is possible to notice that brands in the middle of the network are those ones
 
 ***
 
-Concerning New York network, it is visible that brands such as palmangels, prabalgurung and mrselfportrait have their own dynamics and do not share much users with other brands, some other brands instead share lots of users with others, and as a consequence they are placed in the middle of the network, such as proenzashouler.
+Concerning New York network, it is visible that brands such as palmangels, sandyliang and eckhaus_latta have their own dynamics and do not share much users with other brands, some other brands instead share lots of users with others, and as a consequence they are placed in the middle of the network, such as proenzashouler.
 
 ![example of secondary visualization]({{ '/assets/images/findings/network-02.png' | relative_url }})
 
