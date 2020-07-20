@@ -1,11 +1,11 @@
 ---
-title: Do OOOOOO before they have the chance to see what's next?
+title: Which brands do these international communities engage with?
 
 cover: /assets/images/logo_poli.png
 
 number: 5
 
-intro: Use this text, in no more than 400 characters, to give context to the research question. Sometimes it’s useful to start from a known claim (from news articles) about the topic. What is known about this subject and what do you aim to add with your research protocol?.
+intro: Knowing that there is a global community for Fashion Week inspires us to analyze which Brands they are engaging with.This result will provide insights for Brands and users to explore the various audiences garnered by each of the two FW events.
 
 sources:
   - name: Wikipedia
@@ -17,9 +17,10 @@ sources:
 ---
 
 ### Main Findings
-Use this space, in no more than 280 characters, to explain an interesting first finding that emerges from the visualization. Text, and/or a portion of the main visualisation can be used.
+From this we see which brands were popular amongst the common languages. We see that Prada and Gucci are the two brands that appear in all of the top languages, and most of the tweets for Prada and Coach were driven by Thai users.
 
-![example of secondary visualization]({{ '/assets/images/example-finding.png' | relative_url }})
+![example of secondary visualization]({{ '/assets/images/findings/treemap_0.png' | relative_url }})
+![example of secondary visualization]({{ '/assets/images/findings/treemap_1.png' | relative_url }})
 
 ***
 
@@ -35,4 +36,4 @@ Always in no more than 280 characters, show another finding that emerges from th
 
 ### Protocol
 
-![example of protocol]({{ '/assets/images/protocols/example-protocol.png' | relative_url }})
+![example of protocol]({{ '/assets/images/protocols/john_protocol.svg' | relative_url }})

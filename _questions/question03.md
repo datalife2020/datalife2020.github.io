@@ -1,11 +1,11 @@
 ---
-title: What event would you like to know the whole and complete truth about?
+title: Which brands share the most users and how are the communities shaped?
 
 cover: /assets/images/covers/viz03.jpg
 
 number: 3
 
-intro: Use this text, in no more than 400 characters, to give context to the research question. Sometimes it’s useful to start from a known claim (from news articles) about the topic. What is known about this subject and what do you aim to add with your research protocol?.
+intro: Understandingtheamountofsharedaudienceamongbrandscould be useful for strategic brand collaborations, which are very likely to happen among brands which share goals, business direction but also the target market. This analysis shows which brands have the most users in common, using dynamic networks in order to visualize the shared social users throughout the entire fashion weeks.
 
 sources:
   - name: Wikipedia
@@ -17,24 +17,22 @@ sources:
 ---
 
 ### Main Findings
-Use this space, in no more than 280 characters, to explain an interesting first finding that emerges from the visualization. Text, and/or a portion of the main visualisation can be used.
+It is possible to notice that brands in the middle of the network are those ones which share the most users with other brands, while instead the ones which are on the edges share the less users with other brands.
 
-![example of secondary visualization]({{ '/assets/images/example-finding.png' | relative_url }})
-
-***
-
-Always in no more than 280 characters, show another finding that emerges from the visualisation. Even in this case you can use only text and/or a portion of the main visualisation.
-
+![example of secondary visualization]({{ '/assets/images/findings/network-03.png' | relative_url }})
 
 ***
 
-Always in no more than 280 characters, show another finding that emerges from the visualisation. Even in this case you can use only text and/or a portion of the main visualisation.
+Concerning New York network, it is visible that brands such as palmangels, prabalgurung and mrselfportrait have their own dynamics and do not share much users with other brands, some other brands instead share lots of users with others, and as a consequence they are placed in the middle of the network, such as proenzashouler.
 
+![example of secondary visualization]({{ '/assets/images/findings/network-02.png' | relative_url }})
 
 ***
 
-Always in no more than 280 characters, show another finding that emerges from the visualisation. Even in this case you can use only text and/or a portion of the main visualisation.
+The same behaviour as New York network can be seen in Milan network, in which brands such as filaeurope and philippplein are very far from the center of the network, where there are brands like maxmara, gdcswear and albertaferretti that share almost the same slice of users.
+
+![example of secondary visualization]({{ '/assets/images/findings/network-01.png' | relative_url }})
 
 ### Protocol
 
-![example of protocol]({{ '/assets/images/protocols/example-protocol.png' | relative_url }})
+![example of protocol]({{ '/assets/images/protocols/protcol_networks.svg' | relative_url }})

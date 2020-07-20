@@ -1,11 +1,11 @@
 ---
-title: Do OOOOOO before they have the chance to see what's next?
+title: Where is FW being talked about?
 
 cover: /assets/images/logo_poli.png
 
 number: 4
 
-intro: Use this text, in no more than 400 characters, to give context to the research question. Sometimes it’s useful to start from a known claim (from news articles) about the topic. What is known about this subject and what do you aim to add with your research protocol?.
+intro: The geo locations of Tweets further reveal a strong Asian community which are engaging with FW on Twitter. For this research, we provide an interactive tool to explore where FW consumers were tweeting from for each of the Milan and NY Fashion Weeks.
 
 sources:
   - name: Wikipedia
@@ -17,22 +17,11 @@ sources:
 ---
 
 ### Main Findings
-Use this space, in no more than 280 characters, to explain an interesting first finding that emerges from the visualization. Text, and/or a portion of the main visualisation can be used.
+The spatial analysis if the tweets supports the findings above. We see the most influence where we would expect in the U.S., and we see the U.K. and Thailand as other influential areas, with the Philippines also showing significance on the map.
 
-![example of secondary visualization]({{ '/assets/images/example-finding.png' | relative_url }})
+![example of secondary visualization]({{ '/assets/images/findings/map.jpg' | relative_url }})
 
-***
-
-Always in no more than 280 characters, show another finding that emerges from the visualisation. Even in this case you can use only text and/or a portion of the main visualisation.
-
-***
-
-Always in no more than 280 characters, show another finding that emerges from the visualisation. Even in this case you can use only text and/or a portion of the main visualisation.
-
-***
-
-Always in no more than 280 characters, show another finding that emerges from the visualisation. Even in this case you can use only text and/or a portion of the main visualisation.
 
 ### Protocol
 
-![example of protocol]({{ '/assets/images/protocols/example-protocol.png' | relative_url }})
+![example of protocol]({{ '/assets/images/protocols/john_protocol.svg' | relative_url }})

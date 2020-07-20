@@ -1,8 +1,12 @@
 ---
-title: How many times do we move forward? TRY55
+title: Which are the main topics discussed with each brand?
+
 cover: /assets/images/covers/viz01.jpg
+
 number: 1
-intro: Use this text, in no more than 400 characters, to give context to the research question. Sometimes it’s useful to start from a known claim (from news articles) about the topic. What is known about this subject and what do you aim to add with your research protocol?
+
+intro: In order to better understand what was discussed about each brand, we applied Topic Modeling. This lets us see not only the ‘topics’ discussed for each of the brands, but also what the topics themselves have in common between them. In the visualization below, we show the results of the Topic Modeling for each of the most successful brands of both MFW and NYFW. The different ‘clusters’ represent words that are similar and that often appear together in tweets.
+
 sources:
   - name: Wikipedia
     link: https://www.wikipedia.org/
@@ -13,25 +17,17 @@ sources:
 ---
 
 ### Main Findings
-Use this space, in no more than 280 characters, to explain an interesting first finding that emerges from the visualization. Text, and/or a portion of the main visualisation can be used.
+It is interesting to notice how, again, a common factor among almost all the brands is the presence of topics related to the involvement of music artists (see Miley Cyrus and Nicki Minaj for Marc Jacobs) and more in particular of K-Pop artists (Blackpink for prada, Peck Palitchoke for Coach). 
 
 
-![example of finding]({{ '/assets/images/example-finding.png' | relative_url }})
-
-***
-
-Always in no more than 280 characters, show another finding that emerges from the visualisation. Even in this case you can use only text and/or a portion of the main visualisation.
+![example of finding]({{ '/assets/images/findings/networkina-06.png' | relative_url }})
+![example of finding]({{ '/assets/images/findings/networkina-07.png' | relative_url }})
 
 ***
 
-Always in no more than 280 characters, show another finding that emerges from the visualisation. Even in this case you can use only text and/or a portion of the main visualisation.
+Another interesting element resulting from the analysis is the appearance of a topic related to ‘coronavirus’ for Armani (who did its event closed-doors) and Prada, whose event was held on the same day as the beginning of the spread in Italy.
 
-![example of secondary viz, highlighting something]({{ '/assets/images/example-mid-viz.svg' | relative_url }})
-
-***
-
-Always in no more than 280 characters, show another finding that emerges from the visualisation. Even in this case you can use only text and/or a portion of the main visualisation.
 
 ### Protocol
 
-![example of protocol]({{ '/assets/images/protocols/example-protocol.png' | relative_url }})
+![example of protocol]({{ '/assets/images/protocols/Topic_Modeling.svg' | relative_url }})

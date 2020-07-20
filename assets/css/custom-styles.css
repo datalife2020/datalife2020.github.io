@@ -175,7 +175,8 @@ html {
 
 .switch_position {
     position: relative;
-    margin-left: 3rem;
+    margin-left: 45vw;
+    padding-bottom: 5vh;
     
 }
 
@@ -427,12 +428,12 @@ slider-image_MI {
 #image6{background: url("/assets/images/NY_network/05-01.png");}
 #image7{background: url("/assets/images/NY_network/06-01.png");}
 
-#image2_new{background: url("/assets/images/MI_network/01.png");}
-#image3_new{background: url("/assets/images/MI_network/02.png");}
-#image4_new{background: url("/assets/images/MI_network/03.png");}
-#image5_new{background: url("/assets/images/MI_network/04.png");}
-#image6_new{background: url("/assets/images/MI_network/05.png");}
-#image7_new{background: url("/assets/images/MI_network/06.png");}
+#image2_new{background: url("/assets/images/MI_network/01_DEF.png");}
+#image3_new{background: url("/assets/images/MI_network/02_DEF.png");}
+#image4_new{background: url("/assets/images/MI_network/03_DEF.png");}
+#image5_new{background: url("/assets/images/MI_network/04_DEF.png");}
+#image6_new{background: url("/assets/images/MI_network/05_DEF.png");}
+#image7_new{background: url("/assets/images/MI_network/06_DEF.png");}
 
 .slider-label {
     position: relative;
@@ -570,11 +571,39 @@ slider-image_MI {
 }
 
 .image_intro{
-    width: 250px;
-    height: 130px; 
+    width: 180px;
+    height: 75px; 
+    text-align: left;
 }
 
-#observablehq-c7f26d33 {
+#observablehq-5a9318ca {
+    display: flex;
+    justify-content: center;
+}
+
+#fldourish {
+    display: flex;
+    justify-content: center;
+}
+
+.clickable {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.row_1 {
+  display: flex;
+    padding-bottom: 15vh;
+}
+
+/* Create two equal columns that sits next to each other */
+.column_1 {
+  flex: 10%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */ 
+}
+
+.centered {
     display: flex;
     justify-content: center;
 }

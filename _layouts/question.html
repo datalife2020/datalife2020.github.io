@@ -50,24 +50,8 @@ layout: default
     <div class="question__intro">
       <p>{{ page.intro }}</p>
     </div>
-    <div class="question__body">
+    <div class="question__body" style="mix-blend-mode: multiply">
     {{ content }}
-    </div>
-    <div class="source__table">
-      <div class="source__item">
-        <h4>Data sources</h4>
-        <h4>Date of retrieval</h4>
-      </div>
-      {% for source in page.sources %}
-        <div class="source__item">
-          <div class="source__item__name">
-            <p><a href="{{ source.link }}" target="_blank"> <i class="fas fa-arrow-circle-down"></i> {{ source.name }}</a></p>
-          </div>
-          <div class="source__item__timestamp">
-            <p>{{ source.timestamp }}</p>
-          </div>
-        </div>
-      {% endfor %}
     </div>
   </div>
 </article>
