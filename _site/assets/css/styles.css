@@ -296,7 +296,7 @@ footer { display: grid; grid-template-columns: repeat(2, 1fr); grid-template-row
   .pagination__prev:hover .pagination__link::after { -webkit-transform-origin: 100% 50%; transform-origin: 100% 50%; }
   .pagination__next:hover .pagination__link::after { -webkit-transform-origin: 0 50%; transform-origin: 0 50%; } }
 @media screen and (min-width: 992px) { html { --container-width: 960px; }
-  h1 { font-size: 4.8rem; }
+  h1 { font-size: 3.5rem; }
   .index__item { width: 73%; }
   .index__item:hover { color: var(--color-accent); }
   .btn--burger__line { background-color: var(--color-light); }

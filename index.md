@@ -1,5 +1,5 @@
 ---
-title: Analyzing the social dynamics of the 2020 New York and Milano Fashion Weeks.
+title: Analyzing the social dynamics of the 2020 New York and Milan Fashion Weeks.
 cover: assets/images/landing_cover.gif
 members: Francesco Alongi, Khouloud El Alami, Antonio Esposito, John Hughes, Andrea Pronzati, Cindy Xin
 description: Short description of the document for the meta tags (limit to 150 characters, longer will be cut by search engines)
