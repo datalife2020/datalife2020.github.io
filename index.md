@@ -1,6 +1,6 @@
 ---
 title: P exhaustive title that encapsulate your research.
-cover: assets/images/coverona_lenta.gif
+cover: assets/images/landing_cover.gif
 members: Francesco Alongi, Antonio Esposito, Khouloud El Alami, John Hughes, Andrea Pronzati, Cindy Xin
 description: Short description of the document for the meta tags (limit to 150 characters, longer will be cut by search engines)
 group: Group 05
