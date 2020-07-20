@@ -1,11 +1,11 @@
 ---
-title: What are the most successful brands in both Fashion Weeks?
+title: Which brands share the most users and how are the communities shaped?
 
-cover: /assets/images/logo_poli.png
+cover: /assets/images/covers/viz03.jpg
 
 number: 7
 
-intro: We collected all the tweets generated during the fashion weeks, by following hashtags such as fashionweek, fw, mfw, nyfw etc., gathering over one million tweets by more than 100 thousand distinct users. Our first objective has been to identify the most successful brands, by considering the number of mentions received. The more mentions a brand receives, the more successful it is considered to be. This helped us in having a better view over the event itself, and more importantly it gave us a starting point for some of the following steps of our analysis.
+intro: Understandingtheamountofsharedaudienceamongbrandscould be useful for strategic brand collaborations, which are very likely to happen among brands which share goals, business direction but also the target market. This analysis shows which brands have the most users in common, using dynamic networks in order to visualize the shared social users throughout the entire fashion weeks.
 
 sources:
   - name: Wikipedia
@@ -17,17 +17,22 @@ sources:
 ---
 
 ### Main Findings
-As it can be seen in the barcharts, in both MFW and NYFW we have some brands receiving far more mentions than the others. In particular, in Milan, Prada has been mentioned 10 times more than the second most successful brand, reason why we decided to analyze it more in depth. 
+It is possible to notice that brands in the middle of the network are those ones which share the most users with other brands, while instead the ones which are on the edges share the less users with other brands.
 
-![example of secondary visualization]({{ '/assets/images/findings/barchart-09.png' | relative_url }})
+![example of secondary visualization]({{ '/assets/images/findings/network-03.png' | relative_url }})
 
 ***
 
-In NYFW, instead, the most successful brands resulted being Coach, Marc Jacobs and Michael Kors, which we analyzed in order to try to identify some similarities in the factors that have driven this engagement.
+Concerning New York network, it is visible that brands such as palmangels, prabalgurung and mrselfportrait have their own dynamics and do not share much users with other brands, some other brands instead share lots of users with others, and as a consequence they are placed in the middle of the network, such as proenzashouler.
 
-![example of secondary visualization]({{ '/assets/images/findings/barchart-08.png' | relative_url }})
+![example of secondary visualization]({{ '/assets/images/findings/network-02.png' | relative_url }})
 
+***
+
+The same behaviour as New York network can be seen in Milan network, in which brands such as filaeurope and philippplein are very far from the center of the network, where there are brands like maxmara, gdcswear and albertaferretti that share almost the same slice of users.
+
+![example of secondary visualization]({{ '/assets/images/findings/network-01.png' | relative_url }})
 
 ### Protocol
 
-![example of protocol]({{ '/assets/images/protocols/Most_successful_brands.svg' | relative_url }})
+![example of protocol]({{ '/assets/images/protocols/protcol_networks.svg' | relative_url }})

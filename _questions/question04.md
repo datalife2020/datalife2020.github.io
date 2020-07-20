@@ -1,11 +1,11 @@
 ---
-title: Where is FW being talked about?
+title: Which International communities are engaging with FW?
 
 cover: /assets/images/logo_poli.png
 
 number: 4
 
-intro: The geo locations of Tweets further reveal a strong Asian community which are engaging with FW on Twitter. For this research, we provide an interactive tool to explore where FW consumers were tweeting from for each of the Milan and NY Fashion Weeks.
+intro: As Fashion Week is an increasingly global event, it is important for Brands to understand their global audience. We measure this through the languages and locations of FW tweets. 
 
 sources:
   - name: Wikipedia
@@ -17,10 +17,9 @@ sources:
 ---
 
 ### Main Findings
-The spatial analysis if the tweets supports the findings above. We see the most influence where we would expect in the U.S., and we see the U.K. and Thailand as other influential areas, with the Philippines also showing significance on the map.
+We find that there is an unexpectedly large reach to the Asian community, particularly Thailand and Korea; the consistently high engagement throughout the week demonstrates that this is a core audience of FW as a whole.
 
-![example of secondary visualization]({{ '/assets/images/findings/map.jpg' | relative_url }})
-
+![example of secondary visualization]({{ '/assets/images/findings/bump.jpg' | relative_url }})
 
 ### Protocol
 

@@ -22,17 +22,6 @@ From this we see which brands were popular amongst the common languages. We see 
 ![example of secondary visualization]({{ '/assets/images/findings/treemap_0.png' | relative_url }})
 ![example of secondary visualization]({{ '/assets/images/findings/treemap_1.png' | relative_url }})
 
-***
-
-Always in no more than 280 characters, show another finding that emerges from the visualisation. Even in this case you can use only text and/or a portion of the main visualisation.
-
-***
-
-Always in no more than 280 characters, show another finding that emerges from the visualisation. Even in this case you can use only text and/or a portion of the main visualisation.
-
-***
-
-Always in no more than 280 characters, show another finding that emerges from the visualisation. Even in this case you can use only text and/or a portion of the main visualisation.
 
 ### Protocol
 

@@ -1,11 +1,11 @@
 ---
-title: What makes a fashion show successful?
+title: Which are the main topics discussed with each brand?
 
-cover: /assets/images/logo_poli.png
+cover: /assets/images/covers/viz01.jpg
 
 number: 8
 
-intro: Fashion Week plays an important role in shaping the way people dress. Over the years, celebrities and influencers have been increasingly making the front rows or the catwalk of the highest-profile fashion shows. As a matter of fact, 100% of the top posts during FW SS20 were from influencers or celebrities. This question is thus, an attempt to identify the elements that contribute into making a fashion show successful online.
+intro: In order to better understand what was discussed about each brand, we applied Topic Modeling. This lets us see not only the ‘topics’ discussed for each of the brands, but also what the topics themselves have in common between them. In the visualization below, we show the results of the Topic Modeling for each of the most successful brands of both MFW and NYFW. The different ‘clusters’ represent words that are similar and that often appear together in tweets.
 
 sources:
   - name: Wikipedia
@@ -17,39 +17,17 @@ sources:
 ---
 
 ### Main Findings
-This year’s Milan and NYC Fashion Weeks were mainly dominated by 10 major brands. With more than 35,000 mentions, Marc Jacobs gathered the most attention on social media, followed by Prada and Michael Kors with respectively more than 7000 and 3500 mentions in tweets.
+It is interesting to notice how, again, a common factor among almost all the brands is the presence of topics related to the involvement of music artists (see Miley Cyrus and Nicki Minaj for Marc Jacobs) and more in particular of K-Pop artists (Blackpink for prada, Peck Palitchoke for Coach). 
 
-![example of secondary visualization]({{ '/assets/images/findings/barchart-04.png' | relative_url }})
 
-***
-
-Marc Jacobs featured celebrity models Bella & Gigi Hadid as well as Miley Cyrus walking on the show. It also had the particularity of showcasing dance performances. However, Marc Jacobs Fashion Show remains the only brand to have implemented a live performance. 
-
-![example of secondary visualization]({{ '/assets/images/findings/barchart-07.png' | relative_url }})
+![example of finding]({{ '/assets/images/findings/networkina-06.png' | relative_url }})
+![example of finding]({{ '/assets/images/findings/networkina-07.png' | relative_url }})
 
 ***
 
-In parallel, Coach rose to popularity online due to the presence Thai celebrity Peck Palitchoke, with whom the brand collaborated, confirming the findings from the language analysis.
-
-![example of secondary visualization]({{ '/assets/images/findings/barchart-06.png' | relative_url }})
-
-***
-
-Analyzing Prada’s twitter data alone shows that its online success does not seem to stem from the Fashion Show but mostly from the attendance of South Korean BlackPink members, with more mentions around them than Prada itself.
-
-![example of secondary visualization]({{ '/assets/images/findings/barchart-05.png' | relative_url }})
-
-***
-
-Gucci made headlines on social media when South Korean pop idol UI stole the show in the front row.
-
-Similarly to Prada and Gucci, Michael Kors’ popularity was also mainly due to the attendance of South Korean celebrity Joy from Red Velvet, who was making its fashion week debut.
-
-***
-
-Overall, the analysis of the top brands that attracted the most social media attention all share one particular element: the presence of celebrities on the catwalk or in the front rows. The data is sufficiently statistically significant to conclude that it is strategically profitable for brands to invite celebrities to their events to boost their online presence. Despite the fact that most of the attention was directed towards the celebrities, it still contributed to making the brands rise in popularity amongst communities.
-
+Another interesting element resulting from the analysis is the appearance of a topic related to ‘coronavirus’ for Armani (who did its event closed-doors) and Prada, whose event was held on the same day as the beginning of the spread in Italy.
+![example of finding]({{ '/assets/images/findings/networkina-08.png' | relative_url }})
 
 ### Protocol
 
-![example of protocol]({{ '/assets/images/protocols/khouloud.png' | relative_url }})
+![example of protocol]({{ '/assets/images/protocols/Topic_Modeling.svg' | relative_url }})

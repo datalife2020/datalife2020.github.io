@@ -270,7 +270,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  github-pages
+  github-pages (~> 206)
   jekyll-admin
 
 BUNDLED WITH
